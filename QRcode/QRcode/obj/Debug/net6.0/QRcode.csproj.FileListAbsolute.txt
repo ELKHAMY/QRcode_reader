@@ -1,0 +1,8 @@
+C:\Users\jmalm\source\repos\QRcode\QRcode\obj\Debug\net6.0\QRcode.csproj.AssemblyReference.cache
+C:\Users\jmalm\source\repos\QRcode\QRcode\obj\Debug\net6.0\QRcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmalm\source\repos\QRcode\QRcode\obj\Debug\net6.0\QRcode.AssemblyInfoInputs.cache
+C:\Users\jmalm\source\repos\QRcode\QRcode\obj\Debug\net6.0\QRcode.AssemblyInfo.cs
+C:\Users\jmalm\source\repos\QRcode\QRcode\obj\Debug\net6.0\QRcode.csproj.CoreCompileInputs.cache
+C:\Users\jmalm\source\repos\QRcode\QRcode\obj\Debug\net6.0\QRcode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jmalm\source\repos\QRcode\QRcode\obj\Debug\net6.0\QRcode.RazorAssemblyInfo.cache
+C:\Users\jmalm\source\repos\QRcode\QRcode\obj\Debug\net6.0\QRcode.RazorAssemblyInfo.cs
